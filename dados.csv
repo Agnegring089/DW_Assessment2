@@ -1,0 +1,51 @@
+severity,outcome,treatment_type,cost,diagnosis_name,risk_factor,gender,smoker,age
+1,0,Tratamento_19,1900.00,Asma,Histórico Familiar,F,false,45
+1,0,Tratamento_47,4700.00,Hipertensão,Fumante,F,false,114
+1,0,Tratamento_27,2700.00,Hipertensão,Fumante,F,true,37
+1,0,Tratamento_35,3500.00,Câncer de Pulmão,Fumante,F,false,29
+1,1,Tratamento_37,3700.00,Hipertensão,Fumante,F,false,27
+1,1,Tratamento_13,1300.00,Doença Cardíaca,Colesterol Elevado,F,false,51
+1,1,Tratamento_5,500.00,Câncer de Pulmão,Fumante,F,false,59
+1,1,Tratamento_49,4900.00,Asma,Histórico Familiar,F,false,114
+1,1,Tratamento_33,3300.00,Doença Cardíaca,Colesterol Elevado,F,true,31
+2,0,Tratamento_26,2600.00,Diabetes,Obesidade,M,false,38
+2,0,Tratamento_36,3600.00,Diabetes,Obesidade,M,true,28
+2,0,Tratamento_30,3000.00,Câncer de Pulmão,Fumante,M,true,34
+1,0,Tratamento_43,4300.00,Doença Cardíaca,Colesterol Elevado,F,false,114
+1,0,Tratamento_3,300.00,Doença Cardíaca,Colesterol Elevado,F,true,61
+1,1,Tratamento_25,2500.00,Câncer de Pulmão,Fumante,F,false,39
+1,0,Tratamento_1,100.00,Diabetes,Obesidade,F,false,63
+1,1,Tratamento_17,1700.00,Hipertensão,Fumante,F,false,47
+1,0,Tratamento_15,1500.00,Câncer de Pulmão,Fumante,F,true,49
+1,1,Tratamento_29,2900.00,Asma,Histórico Familiar,F,false,35
+2,0,Tratamento_24,2400.00,Asma,Histórico Familiar,M,true,40
+2,0,Tratamento_16,1600.00,Diabetes,Obesidade,M,false,48
+2,0,Tratamento_22,2200.00,Hipertensão,Fumante,M,false,42
+2,0,Tratamento_38,3800.00,Doença Cardíaca,Colesterol Elevado,M,false,26
+2,0,Tratamento_4,400.00,Asma,Histórico Familiar,M,false,60
+1,1,Tratamento_45,4500.00,Câncer de Pulmão,Fumante,F,true,114
+2,0,Tratamento_50,5000.00,Câncer de Pulmão,Fumante,M,false,113
+2,0,Tratamento_28,2800.00,Doença Cardíaca,Colesterol Elevado,M,false,36
+2,0,Tratamento_40,4000.00,Câncer de Pulmão,Fumante,M,false,114
+2,0,Tratamento_10,1000.00,Câncer de Pulmão,Fumante,M,false,54
+2,0,Tratamento_46,4600.00,Diabetes,Obesidade,M,false,114
+1,0,Tratamento_11,1100.00,Diabetes,Obesidade,F,false,53
+1,0,Tratamento_39,3900.00,Asma,Histórico Familiar,F,true,25
+2,0,Tratamento_18,1800.00,Doença Cardíaca,Colesterol Elevado,M,true,46
+2,0,Tratamento_34,3400.00,Asma,Histórico Familiar,M,false,30
+1,1,Tratamento_41,4100.00,Diabetes,Obesidade,F,false,114
+1,0,Tratamento_31,3100.00,Diabetes,Obesidade,F,false,33
+2,0,Tratamento_20,2000.00,Câncer de Pulmão,Fumante,M,false,44
+2,0,Tratamento_8,800.00,Doença Cardíaca,Colesterol Elevado,M,false,56
+2,0,Tratamento_48,4800.00,Doença Cardíaca,Colesterol Elevado,M,true,114
+1,0,Tratamento_7,700.00,Hipertensão,Fumante,F,false,57
+1,0,Tratamento_23,2300.00,Doença Cardíaca,Colesterol Elevado,F,false,41
+2,0,Tratamento_32,3200.00,Hipertensão,Fumante,M,false,32
+1,1,Tratamento_21,2100.00,Diabetes,Obesidade,F,true,43
+2,0,Tratamento_14,1400.00,Asma,Histórico Familiar,M,false,50
+1,1,Tratamento_9,900.00,Asma,Histórico Familiar,F,true,55
+2,0,Tratamento_44,4400.00,Asma,Histórico Familiar,M,false,114
+2,0,Tratamento_2,200.00,Hipertensão,Fumante,M,false,62
+2,0,Tratamento_42,4200.00,Hipertensão,Fumante,M,true,114
+2,0,Tratamento_6,600.00,Diabetes,Obesidade,M,true,58
+2,0,Tratamento_12,1200.00,Hipertensão,Fumante,M,true,52
